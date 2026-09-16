@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Calculator/Calculator.csproj" />
+  <Project Path="LommeregnerTest/LommeregnerTest.csproj" Id="415e1ee8-4f3b-48ce-a904-6d418994ea82" />
+</Solution>
